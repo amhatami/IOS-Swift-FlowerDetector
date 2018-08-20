@@ -18,7 +18,7 @@ You'll need to Download the **FlowerClassifier.mlmodel** (~230Mb) [Here Download
 
 Add (Drag) the *FlowerClassifier.mlmodel* into the Xcode project and you can run it!
 
-##### For additionnal info, please watch the video : [YouTube Tutorial]()
+##### For additionnal info, please watch the video : [YouTube Tutorial](https://www.youtube.com/watch?v=DgVVvgWsecI&t=112s)
 
 ## License
 
